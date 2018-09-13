@@ -18,6 +18,7 @@ public class App
 //        lol( "foo-6" );
                 System.out.println( "foo-6" );
                 System.out.println( "foo-6" );
+                System.out.println( "foo-7" );
 
             System.out.println( "foo-6" );
             System.out.println( "foo-6" );
